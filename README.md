@@ -27,11 +27,14 @@ Clasificar pinturas según su estilo artístico empleando técnicas de deep lear
 
 ### Modelos base
 -DNN
+
 -CNN a mano
+
 -CNN con transfer learning
 
 ### Autoencoder
 -Autoencoder entrenado
+
 -Encoder + MLP
 
 ## 🔗 Enlaces Útiles
