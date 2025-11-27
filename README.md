@@ -46,7 +46,7 @@ Clasificar pinturas según su estilo artístico empleando técnicas de deep lear
 ### Autoencoder
 -Autoencoder entrenado para hacer reconstrucción
 
--Encoder + MLP
+-Encoder + MLP para clasificación
 
 ---
 
