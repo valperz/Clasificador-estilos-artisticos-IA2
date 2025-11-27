@@ -1,4 +1,4 @@
-# Clasificador-estilos-artisticos
+# Clasificador de estilos artisticos
 
 
 # Autores: Valentina Pérez, Dana Villamizar, Sneider Sanchez
