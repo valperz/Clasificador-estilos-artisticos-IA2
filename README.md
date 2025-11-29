@@ -2,6 +2,9 @@
   <h1 align="center">Clasificador de estilos artisticos</h1>
   <p align="center">
   <p align="center">
+    <img src="BANNER_IA2.png" alt="Panorama Image" width="1600">
+  <p align="center">
+  <p align="center">
     <a href="https://github.com/DanaVillamizar" rel="external nofollow noopener" target="_blank"><strong>Dana Meliza Villamizar</strong></a>
     .
     <a href="https://github.com/Sneider-exe" rel="external nofollow noopener" target="_blank"><strong>Brayan Sneider Sánchez</strong></a>
