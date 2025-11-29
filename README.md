@@ -56,4 +56,4 @@ Clasificar pinturas según su estilo artístico empleando técnicas de deep lear
 ## Enlaces Útiles
 
 - [Diapositivas](https://www.canva.com/design/DAGzEcd7_Xs/oQPN5e3EXQixM1OW4Uh4Yg/edit?utm_content=DAGzEcd7_Xs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Video explicativo]()
+- [Video explicativo](https://youtu.be/gSD1yYf296Q)
